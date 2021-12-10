@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JoyLaRock
-- 👀 I’m interested in getting to know Ruby enthusiasts as a recruiter myself and helping improve your career growth plans
+- 👋 Hi, I’m @JoyLaRock Technical Recruiter with Stripe
+- 👀 I’m interested in getting to know Ruby enthusiasts and helping improve your career
 - 🌱 I’m currently learning all things Stripe
 - 💞️ I’m looking to collaborate on opportunities at my company
 - 📫 How to reach me joylaraque@stripe.com
